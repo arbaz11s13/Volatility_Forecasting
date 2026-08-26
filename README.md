@@ -1,9 +1,6 @@
 # Equity Volatility Forecasting and Volatility Targeting
 
 ## Overview
-$$ 
-1.5 \\%
-$$
 
 This project studies daily equity volatility forecasting across short and medium horizons and evaluates whether improvements in statistical forecast accuracy translate into economically meaningful improvements in portfolio risk management.
 
@@ -415,7 +412,7 @@ A fixed exposure is estimated using only the pre-evaluation development period.
 Development-period SPY annualized volatility was approximately:
 
 
-$$ 20.54% $$
+$$ 20.54 \\% $$
 
 Therefore the fixed exposure required to target 10% risk was:
 
@@ -452,7 +449,7 @@ The dynamic strategies remain close to the 10% target across changing volatility
 GJR targeting achieved approximately:
 
 $$
-10.04%
+10.04 \\%
 $$
 
 realized annualized volatility.
@@ -505,7 +502,7 @@ $$
 Development-period portfolio volatility was approximately:
 
 $$
-28.92%.
+28.92 \\%
 $$
 
 The corresponding static exposure required to target 10% volatility was:
