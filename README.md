@@ -411,9 +411,8 @@ A fixed exposure is estimated using only the pre-evaluation development period.
 
 Development-period SPY annualized volatility was approximately:
 
-$$
+
 20.54%
-$$
 
 Therefore the fixed exposure required to target 10% risk was:
 
