@@ -1,6 +1,7 @@
 # Equity Volatility Forecasting and Volatility Targeting
 
 ## Overview
+$ 1.5 %$
 
 This project studies daily equity volatility forecasting across short and medium horizons and evaluates whether improvements in statistical forecast accuracy translate into economically meaningful improvements in portfolio risk management.
 
