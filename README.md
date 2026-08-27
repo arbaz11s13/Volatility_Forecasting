@@ -638,7 +638,6 @@ Volatility-Forecasting/
 ├── experiments/
 │   └── elastic_net.ipynb
 │
-├── requirements.txt
 └── README.md
 ```
 
